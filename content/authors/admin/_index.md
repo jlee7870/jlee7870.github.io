@@ -55,8 +55,8 @@ interests:
 education:
   - area: Computer Science
     institution: University of Southern California
-    date_start: 2022-08
-    date_end: 2024-12
+    date_start: 2022-08-01
+    date_end: 2024-12-15
     summary: |
       Summary blah blah
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: Applied Mathematics
     institution: University of California, Los Angeles
-    date_start: 2018-08
-    date_end: 2022-06
+    date_start: 2018-08-01
+    date_end: 2022-06-01
     summary: |
       GPA: 1000/4.0
 
@@ -78,8 +78,8 @@ work:
     company_name: Google Summer of Code 2024
     company_url: ''
     company_logo: ''
-    date_start: 2024-05
-    date_end: 2024-09
+    date_start: 2024-05-01
+    date_end: 2024-09-01
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
