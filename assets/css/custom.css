@@ -1,5 +1,5 @@
 .avatar img {
-    width: 200px;        /* Set your desired width */
-    height: 200px;       /* Set your desired height to maintain proportions */
+    width: 400px;        /* Set your desired width */
+    height: 400px;       /* Set your desired height to maintain proportions */
     border-radius: 50%;  /* Optional: keep it circular if needed */
 }
