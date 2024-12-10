@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: about.biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -21,8 +21,8 @@ sections:
     design:
       css_class: dark
       background:
-        gradient_end: '#000620'
-        gradient_start: '#000620'
+        gradient_end: '#131627'
+        gradient_start: '#131627'
         text_color_light: true
   - block: resume-experience
     id: experience
