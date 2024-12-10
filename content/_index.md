@@ -21,8 +21,8 @@ sections:
     design:
       css_class: dark
       background:
-        gradient_end: '#3b2e2e'
-        gradient_start: '#3b2e2e'
+        gradient_end: '#252525'
+        gradient_start: '#252525'
         text_color_light: true
   - block: resume-experience
     id: experience
