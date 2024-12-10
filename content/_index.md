@@ -24,6 +24,14 @@ sections:
         gradient_end: '#131627'
         gradient_start: '#1E2027'
         text_color_light: true
+  - block: markdown
+    content:
+      title: '📚 My Research'
+      subtitle: ''
+      text: |-
+        I am broadly interested in (1) understanding machine and deep learning systems using both theoretical analysis and empirical validation; (2) developing practical and efficient machine learning algorithms that are safe, fair, and robust; and (3) reinforcement learning.
+    design:
+      columns: '1'
   - block: resume-experience
     id: experience
     content:
@@ -33,14 +41,6 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am broadly interested in (1) understanding machine and deep learning systems using both theoretical analysis and empirical validation; (2) developing practical and efficient machine learning algorithms that are safe, fair, and robust; and (3) reinforcement learning.
-    design:
-      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
@@ -52,16 +52,16 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
+  - block: collection
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
