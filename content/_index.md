@@ -22,7 +22,7 @@ sections:
       css_class: dark
       background:
         gradient_end: '#131627'
-        gradient_start: '#131627'
+        gradient_start: '#ffffff'
         text_color_light: true
   - block: resume-experience
     id: experience
