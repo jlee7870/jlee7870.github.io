@@ -66,12 +66,19 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-10-01
-    date_end: Present
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advised by Prof. Vatsal Sharan
+      - Researching differences between SGD and Adam in neural network training
+  - position: Graduate Student Researcher
+    company_name: USC CS Theory Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-05-01
+    date_end: ''
+    summary: |
+      - Advised by Prof. Haipeng Luo
+      - Developing sample-efficient online reinforcement learning algorithms that leverage high-quality simulators
   - position: Open source developer
     company_name: Google Summer of Code 2024
     company_url: ''
@@ -81,17 +88,15 @@ work:
     summary: |2-
       - Developing chatbots for open-source geophysical research software, gprMax
       - Fine-tuning LLMs and integrating retrieval-augmented generation
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Undergraduate Student Researcher
+    company_name: UCLA StarAI Lab
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-06-01
+    date_end: 2022-01-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Advised by Prof. Guy Van den Broeck
+      - Designed an algorithm for generating random probabilistic generating circuits that guarantee tractable inference over important classes of queries
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
