@@ -31,49 +31,47 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'mailto:jlee7870@usc.edu'
+    label: E-mail
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/eddieleejw
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/eddieleejw/
 
 interests:
-  - Theoretical and empirical insights to better understand deep and machine learning systems
-  - Developing practical algorithms that are robust, safe and fair
+  - Theoretical machine learning
+  - Deep learning
   - Online learning
   - Reinforcement learning
 
 education:
-  - area: Computer Science
+  - area: MS Computer Science
     institution: University of Southern California
     date_start: 2022-08-01
     date_end: 2024-12-15
     summary: |
-      Summary blah blah
+      GPA: 3.96/4.0
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Applied Mathematics
+  - area: BS Applied Mathematics
     institution: University of California, Los Angeles
     date_start: 2018-08-01
     date_end: 2022-06-01
     summary: |
-      GPA: 1000/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.93/4.0
 work:
+  - position: Graduate Student Researcher
+    company_name: USC CS Theory Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: Present
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Open source developer
     company_name: Google Summer of Code 2024
     company_url: ''
@@ -81,10 +79,8 @@ work:
     date_start: 2024-05-01
     date_end: 2024-09-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developing chatbots for open-source geophysical research software, gprMax
+      - Fine-tuning LLMs and integrating retrieval-augmented generation
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
