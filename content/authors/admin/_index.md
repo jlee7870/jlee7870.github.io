@@ -51,9 +51,9 @@ education:
     date_end: 2024-12-15
     summary: |
       GPA: 3.96/4.0
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: BS Applied Mathematics
     institution: University of California, Los Angeles
     date_start: 2018-08-01
