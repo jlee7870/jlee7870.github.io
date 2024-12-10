@@ -86,6 +86,7 @@ work:
     date_start: 2024-05-01
     date_end: 2024-09-01
     summary: |2-
+      - Advised by Dr. Iraklis Giannakis
       - Developing chatbots for open-source geophysical research software, gprMax
       - Fine-tuning LLMs and integrating retrieval-augmented generation
   - position: Undergraduate Student Researcher
