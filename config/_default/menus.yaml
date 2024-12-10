@@ -25,3 +25,6 @@ main:
   # - name: Teaching
   #   url: teaching/
   #   weight: 40
+  - name: Hobbies
+    url: hobbies/
+    weight: 50
