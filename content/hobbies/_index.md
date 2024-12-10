@@ -1,13 +1,9 @@
 ---
-title: Teaching
-summary: My courses
+title: Hobbies
+summary: My hobbis
 type: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+
 
 sections:
   - block: collection
