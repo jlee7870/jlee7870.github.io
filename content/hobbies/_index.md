@@ -11,7 +11,7 @@ sections:
       title: 'Hobbies'
       subtitle: ''
       text: |-
-        In my free time, I also play the acooustic guitar and dance!
+        In my free time, I also play the acoustic guitar and dance!
 
         ## Guitar
 
@@ -31,6 +31,5 @@ sections:
 
         My current chess goal is to play at an open tournament. My lifetime chess goal is to become a titled player.
 
-    design:
-      columns: '1'
+
 ---
