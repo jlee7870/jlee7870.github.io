@@ -21,9 +21,15 @@ sections:
     design:
       css_class: dark
       background:
-        gradient_end: '#131627'
-        gradient_start: '#1E2027'
-        text_color_light: true
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: stacked-peaks.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
